@@ -1,4 +1,2 @@
-spellcheck
+This is a place to keep some of my solutions to problems assigned in an intro cs class.
 ==========
-
-a C code attempt for dictionary.c used in edx course cs50
